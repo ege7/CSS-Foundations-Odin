@@ -1,0 +1,13 @@
+.ege{
+    background-color: black;
+    color: white;
+}
+
+.scare {
+    background-color: yellow;
+}
+.scare,
+ .ege{
+    font-size: 28px;
+    font-family: Helvectica, "Times New Roman", sans-serif;
+}
